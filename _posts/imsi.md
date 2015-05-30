@@ -1,9 +1,9 @@
 
 ---
 layout : post
-title :Welcome to Jekyll!
-date : 2015-05-30 19:50:02 
-categories : Bicycle
+title :  "Welcome to Jekyll!"
+date :   2015-05-30 19:50:02 
+categories :  Bicycle
 ---
 
 
@@ -11,6 +11,5 @@ post
 
 Welcome to Jekyll! 
 
-2015-05-30 04:27:18 -0700 
-
+what??
 jekyll update 
